@@ -51,6 +51,10 @@
 ```
  **функция вернёт 8, что и будет периметром квадрата**
 # История изменения проекта
+- 206198d (origin/feature) L-04: Update square.py
+- ed5022e (origin/feature) L-04: Update rectangle.py
+- 19a243c (origin/feature) L-04: Update circle.py
+- 3049431 (origin/feature) L-04: Update README.md
 - 438b89a L-05: Add user agreement
 - 6adb962 L-03: Docs added
 - 3049431 (origin/feature) L-04: Add rectangle.py
